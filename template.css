@@ -1,0 +1,68 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.container{
+height:400px;
+width:80%;
+background:pink;
+margin:auto;
+background:url(office.jpg);
+background-size:100% 100%;
+}
+.container h1{
+height:50px;
+width:20%;
+float:left;
+background:red;
+font-size:30px;
+line-height:50px;
+text-align:center;
+}
+.container nav{
+height:50px;
+width:100%;
+background:aqua;
+}
+.container li{
+float:left;
+font-size:25px;
+list-style:none;
+height:40px;
+width:100px;
+margin-left:50px;
+}
+.container2{
+height:400px;
+width:80%;
+margin:auto;
+}
+.box1{
+height:400px;
+width:50%;
+float:left;
+}
+.box2{
+height:400px;
+width:50%;
+float:left;
+}
+.container3{
+height:400px;
+width:80%;
+background:lightgray;
+margin:auto;
+}
+.container4{
+height:400px;
+width:80%;
+border:20px solid white;
+margin:auto;
+}
+.container5{
+height:400px;
+width:80%;
+background:black;
+position:relative;
+margin:auto;
+}
